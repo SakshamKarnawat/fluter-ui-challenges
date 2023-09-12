@@ -1,0 +1,117 @@
+name: morse_code_learning
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  flutter_svg: ^2.0.7
+  google_fonts: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+  fonts:
+    - family: Gilroy-Black
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-Black.ttf
+        
+    - family: Gilroy-BlackItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-BlackItalic.ttf
+          style: italic
+    
+    - family: Gilroy-Bold
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-Bold.ttf
+    
+    - family: Gilroy-BoldItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-BoldItalic.ttf
+          style: italic
+    
+    - family: Gilroy-ExtraBold
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-ExtraBold.ttf
+    
+    - family: Gilroy-ExtraBoldItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-ExtraBoldItalic.ttf
+          style: italic
+      
+    - family: Gilroy-Heavy
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-Heavy.ttf
+    
+    - family: Gilroy-HeavyItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-HeavyItalic.ttf
+          style: italic
+
+    - family: Gilroy-Light
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-Light.ttf
+
+    - family: Gilroy-LightItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-LightItalic.ttf
+          style: italic
+
+    - family: Gilroy-Medium
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-Medium.ttf
+    
+    - family: Gilroy-MediumItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-MediumItalic.ttf
+          style: italic
+
+    - family: Gilroy-Regular
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-Regular.ttf
+    
+    - family: Gilroy-RegularItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-RegularItalic.ttf
+          style: italic
+    
+    - family: Gilroy-SemiBold
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-SemiBold.ttf
+
+    - family: Gilroy-SemiBoldItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-SemiBoldItalic.ttf
+          style: italic
+    
+    - family: Gilroy-Thin
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-Thin.ttf
+
+    - family: Gilroy-ThinItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-ThinItalic.ttf
+          style: italic
+    
+    - family: Gilroy-UltraLight
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-UltraLight.ttf
+    
+    - family: Gilroy-UltraLightItalic
+      fonts:
+        - asset: assets/fonts/Gilroy/Gilroy-UltraLightItalic.ttf
+          style: italic
