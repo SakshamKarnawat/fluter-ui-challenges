@@ -7,6 +7,6 @@ class AppTheme {
   static const Color primaryDark = Color(0xFF191919);
   static const Color primaryBrown = Color(0xFFA67B5B);
   static const Color primaryWhite = Colors.white;
-  static const Color secondaryWhite = Color.fromRGBO(255, 255, 255, 0.5);
-  static const Color secondaryDark = Color.fromRGBO(25, 25, 25, 0.6);
+  static const Color secondaryWhite = Color(0x7EFFFFFF);
+  static const Color secondaryDark = Color(0x99191919);
 }

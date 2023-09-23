@@ -6,7 +6,7 @@ Welcome to the Morse Code Learning Flutter mobile app project! This project is a
 
 ## Design Inspiration
 
-The design for this app was inspired by [this Dribbble design](https://dribbble.com/shots/14138423-Morse-Code-Learning-App), which serves as the visual foundation for my Flutter UI implementation. I acknowledge and appreciate the creative work done by Purrweb UI/UX Agency in crafting this visually appealing design.
+The design for this app was inspired by [this Dribbble design](https://dribbble.com/shots/22515146-A-Morse-Code-Learning-Mobile-iOS-App), which serves as the visual foundation for my Flutter UI implementation. I acknowledge and appreciate the creative work done by Purrweb UI/UX Agency in crafting this visually appealing design.
 
 The background image used in the app was sourced from [Unsplash](https://unsplash.com/photos/j5s_uLajP2o) and full credit goes to the original photographer, [Chris Curry](https://unsplash.com/@chriscurry92?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 

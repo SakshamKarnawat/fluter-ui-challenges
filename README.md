@@ -6,4 +6,4 @@ A collection of UIs created using Flutter, inspired by various designs across th
 
 | Challenge | Design Source | Implementation Link |
 | --------- | ------------- | ------------------- |
-| Morse Code Learning App | [Dribbble](https://dribbble.com/shots/22515146-A-Morse-Code-Learning-Mobile-iOS-App) | [Link](https://github.com/SakshamKarnawat/fluter-ui-challenges/tree/master/morse_code_learning)
+| Morse Code Learning App | [Dribbble](https://dribbble.com/shots/22515146-A-Morse-Code-Learning-Mobile-iOS-App) | [Link](https://github.com/SakshamKarnawat/fluter-ui-challenges/tree/main/morse_code_learning)
